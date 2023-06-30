@@ -1,0 +1,11 @@
+{
+	"name": "ls_adlsgen1_source",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://undefined.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "2f66eaa0-169f-482f-a964-075981f04a39"
+		}
+	}
+}
